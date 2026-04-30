@@ -1,1 +1,8 @@
 oasis_longitudinal_demographics-8d83e569fa2e2d30.xlsx
+*.hdr
+*.img
+/OAS2_RAW_PART2
+/OAS2_RAW_PART1
+*.xlsx
+*.csv
+/.ipynb_checkpoints
